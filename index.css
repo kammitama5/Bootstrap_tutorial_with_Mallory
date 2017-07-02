@@ -1,0 +1,11 @@
+.easy-steps p{
+  border:10px solid teal;
+  padding : 30px;
+  text-align: center;
+  font-size: 20px;
+}
+
+p{
+  margin:20px;
+}
+
