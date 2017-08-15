@@ -2,8 +2,8 @@
 
 - Wait. WHO!?
 
-- Mallory was one of our guests for "Coding for Product", in which we 
-  made an app within five weeks in teams, using different stacks.
+- Mallory was one of our guests for "Coding for Product"(in which we 
+  made an app within five weeks in teams, using different stacks).
   
 Mallory's Bootstrap tutorial
 
